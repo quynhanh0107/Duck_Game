@@ -52,4 +52,30 @@ Destroy all targets while managing limited ducks. Progress through all levels in
 ---
 
 ## Screenshots
-# 1. Menu
+### 1. Menu
+
+<img src="screenshots/menu.png" width=400, height=450>
+
+### 2. Level 1
+
+<img src="screenshots/level1.png" width=400, height=450>
+
+### 3. Level 2
+
+<img src="screenshots/level2.png" width=400, height=450>
+
+### 4. Random level
+
+<img src="screenshots/random_lvl.png" width=400, height=450>
+
+---
+
+## Future Improvements
+* Improve some ducks' laggy movements
+* More pre-defined levels with increasing difficulty
+* Power-ups (e.g., extra ducks, stronger shots, or special abilities)
+* More control options, including mouse input for aiming
+
+---
+Author: Quynh Anh Le\
+Year: 2025
